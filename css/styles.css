@@ -5,6 +5,7 @@ body {
     /* padding: 0 10px; */
     font-family: 'Montserrat', sans-serif;
     width: 100%;
+    text-align: justify;
 }
 
 ul,
@@ -24,6 +25,7 @@ ol {
 .main-contents {
     padding: 88px 10px 0 80px;
     box-sizing: border-box;
+    margin-right: 40px;
 }
 
 /* Sidebar */
